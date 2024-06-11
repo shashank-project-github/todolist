@@ -18,5 +18,5 @@ You can check out the live demo here. https://todolist-azure-eta.vercel.app/
 
 ## Screenshots
 
-![App Screenshot](https://todolist-azure-eta.vercel.app/)
+![App Screenshot](app/todolist.png)
 
