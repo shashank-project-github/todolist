@@ -20,3 +20,6 @@ You can check out the live demo here. https://todolist-azure-eta.vercel.app/
 
 ![App Screenshot](app/todolist.png)
 
+
+![App Screenshot](app/todolist2.png)
+
